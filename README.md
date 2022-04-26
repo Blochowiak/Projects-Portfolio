@@ -18,3 +18,8 @@ or in the Introduction of the Technical Report (both are in this repository).
   - Exponential and uniform distributions were utilized to simulate new data.
 * C# Programming
   - 10,000 simulations of each model were run using C#.
+
+## Skills
+
+
+## What I Learned
