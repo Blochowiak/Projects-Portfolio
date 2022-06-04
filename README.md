@@ -1,4 +1,4 @@
-# School Project - Swede Hollow Café
+# School Project - XYZ Cafe
 ## Advanced Mathematical Modeling
 This is a project I made with two other students over a period of about eight weeks. The description of the project can be read in the Executive Summary
 or in the Introduction of the Technical Report (both are in this repository).
