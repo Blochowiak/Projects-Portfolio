@@ -19,14 +19,15 @@ or in the Introduction of the Technical Report (both are in this repository).
 * C# Programming
   - 10,000 simulations of each model were run using C#.
 
-## Skills and What I Learned
+## Skills
 * Technical writing
 * Technical presentation
 * Excel, Word, PowerPoint
 
-## What I Learned
+## What I Learned or Improved
 * Interpersonal communication
 * Time management
 * Meeting management
 * Task scheduling
-* Project management 
+* Project management
+* Excel efficiency
