@@ -1,7 +1,6 @@
 # School Project - XYZ Cafe
 ## Advanced Mathematical Modeling
-This is a project I made with two other students over a period of about eight weeks. The description of the project can be read in the Executive Summary
-or in the Introduction of the Technical Report (both are in this repository).
+This is a project I made with two other students over a period of about eight weeks. The description of the project can be read in the Introduction of the Technical Report provided.
 
 ### Tasks
 1. Replicate a lunch rush of business based upon three weeks of prior data.
