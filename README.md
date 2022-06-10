@@ -98,8 +98,8 @@ approximately eight chicks per year – the limit their resources will allow. Ad
 ### Methods and Tools Used
 * Affine system
   - The recursive formula for this discrete system was affine
-* Excel
-  - All recursion and analysis was done in Excel
+* Excel (files available upon demand)
+  - All recursion and analysis were done in Excel
 
 ## Skills
 * Technical writing
