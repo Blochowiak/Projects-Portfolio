@@ -28,13 +28,13 @@ All replicated variables were within one standard deviation from the original da
 
 ### Methods and Tools Used
 * Descriptive Statistics
-  - Performed in Excel, from mean/median/mode to correlations between continuous and dichotomous variables.
+  - Performed in Excel, from mean/median/mode to correlations between continuous and dichotomous variables. (Files available upon request).
 * Random variables
   - Simulated new data with random variables.
 * Distributions
   - Exponential and uniform distributions were utilized to simulate new data.
 * C# Programming
-  - 15,000 simulations of each model were run using C#.
+  - 15,000 simulations of each model were run using C#. (Executables available upon request).
 
 ## Skills
 * Technical writing
