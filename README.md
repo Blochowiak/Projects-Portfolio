@@ -62,7 +62,7 @@ It was discovered that three flight patterns made daily would minimize the costs
 
 ### Methods and Tools Used
 *  Integer Programming
-*  Binary decision variables with a coefficient scalar of flight costs
+    - Binary decision variables with a coefficient scalar of flight costs
 *  Excel's Solver tool to minimize costs
 
 ## Skills
