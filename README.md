@@ -1,7 +1,7 @@
 # Projects Portfolio
 I have three projects included in this portfolio.
 1.	A cost-benefit analysis with Monte Carlo simulations to optimize XYZ café’s lunch rush
-2.	Airline reservation optimization with Monte Carlo simulations
+2.	Integer programming optimizing a freight airline's daily flight patterns
 3.	Crane population dynamical system with decay rate and carrying capacity
 
 Each project is explained below, with references to the attached files created for the respective projects.
@@ -50,35 +50,29 @@ All replicated variables were within one standard deviation from the original da
 * Excel efficiency
 
 ___
-# 2. Airline Reservation Optimization Model
-This is a project I made with two other students over a period of about eight weeks. The description of the project can be read in Executive Summary and the Introduction of the Technical Report, both are provided. The Excel spreadsheets can be provided upon request.
+# 2. Integer Program Optimizing Freight Flight Patterns
+A freight company must make eleven flights every among five cities. There are four pilots; two in Des Moines, two in Green Bay. They cannot fly more than 10 hours and must return to their base city at the end of every day. Given flight lengths, wages, and flying limitations, how can this freight airline minimize the cost of making these eleven flights daily?
+It was discovered that three flight patterns made daily would minimize the costs. Only one pilot would fly out of Green Bay, two out of Des Moines. This freed up one pilot in Green Bay to potentially fulfill other contracts.
 
 ### Tasks
-1. Replicate a lunch rush of business based upon three weeks of prior data.
-2. Modify the replication model to include an extra cashier.
-3. Modify the replication model to allow for a floating barista who can act as a second cashier when not creating specialty drinks.
-4. Perform a cost-benefit analysis on the three models to discern which is best. 
+1. Outline all parameters.
+2. Create a binary coefficient matrix in Excel.
+3. Create decision variables for an objective function based upon the cost of flight patterns.
+4. Use Microsoft Solver to minimize the objective function.
 
 ### Methods and Tools Used
-* Descriptive Statistics
-  - Performed in Excel, from mean/median/mode to correlations between continuous and dichotomous variables.
-* Random variables
-  - Simulated new data with random variables.
-* Distributions
-  - Exponential and uniform distributions were utilized to simulate new data.
-* C# Programming
-  - 15,000 simulations of each model were run using C#.
+*  Integer Programming
+*  Binary decision variables with a coefficient scalar of flight costs
+*  Excel's Solver tool to minimize costs
 
 ## Skills
+* Integer programming
+* Excel
 * Technical writing
-* Technical presentation
-* Excel, Word, PowerPoint
 
 ## What I Learned or Improved
-* Interpersonal communication
-* Time management
-* Meeting management
-* Task scheduling
+* Excel, expecially Solver
+* Technical writing efficiency
 * Project management
 * Excel efficiency
 
@@ -108,3 +102,4 @@ approximately eight chicks per year – the limit their resources will allow. Ad
 ## What I Learned or Improved
 * Excel efficiency
 * Affine dynamical systems
+* Technical writing efficiency
