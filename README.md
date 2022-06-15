@@ -1,5 +1,5 @@
 # Projects Portfolio
-I have three projects included in this portfolio.
+I have three projects included in this portfolio. They are listed in order of complexity, and the relevant documents are in the files section of this repository.
 1.	A cost-benefit analysis with Monte Carlo simulations to optimize XYZ café’s lunch rush
 2.	Integer programming optimizing a freight airline's daily flight patterns
 3.	Crane population dynamical system with decay rate and carrying capacity
