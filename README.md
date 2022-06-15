@@ -1,10 +1,11 @@
 # Projects Portfolio
-I have three projects included in this portfolio. They are listed in order of complexity, and the relevant documents are in the files section of this repository.
+I have three projects included in this portfolio. They are listed in order of complexity and relevance for demonstrating my technical abilities. Thus, the technical report for XYZ Cafe is most recommended. Moreover, I wrote the majority of the technical report and executive summary for that project. The relevant documents are in the files section of this repository.
+
 1.	A cost-benefit analysis with Monte Carlo simulations to optimize XYZ café’s lunch rush
 2.	Integer programming optimizing a freight airline's daily flight patterns
 3.	Crane population dynamical system with decay rate and carrying capacity
 
-Each project is explained below, with references to the attached files created for the respective projects.
+Each project is explained briefly below, with references to the attached files created for the respective projects.
 
 # 1. XYZ Cafe Lunch Rush Optimization Model
 XYZ café serves breakfast and lunch foods alongside coffee, tea, and specialty beverages. The café employs a single cashier alongside
@@ -83,6 +84,8 @@ from dissolving, along with maintaining the revenue from visitors who enjoy the 
 approximately eight chicks per year – the limit their resources will allow. Additionally, the carrying capacity of the park is 200 cranes. Two questions were investigated:
 1. How quickly can a population of 200 cranes be reached?
 2. What will it take for such a population to be maintained?
+
+Hatching eight chicks per year would bring the park to capacity by the 35th year. Capacity could be maintained by alternating hatching six or seven chicks per year *ad infinitum*.
 
 ### Tasks
 1. Create a recursive formula to calculate each successive year's crane population
