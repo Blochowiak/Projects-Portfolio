@@ -25,6 +25,7 @@ In comparison with the replication model, Second Cashier yielded:
   * Decreased balking to 27.4% of the Base model,serving an additional 2.25 parties per day
   * Decreased average profit earned during the 2.5-hour period by 1.5% (or $5.50)
   * Increased the average maximum barista queue size by 1.17
+
 The Floating Barista model:
   * Decreased balking to 44.8% of the Base model, serving an additional 1.6 parties per day
   * Increased average profit earned during the 2.5-hour period by 6.4% (or $25)
